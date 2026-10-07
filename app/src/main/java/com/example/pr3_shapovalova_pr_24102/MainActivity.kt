@@ -1,5 +1,5 @@
 package com.example.pr3_shapovalova_pr_24102
-
+// Коммит 2: проверка работы Git
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
