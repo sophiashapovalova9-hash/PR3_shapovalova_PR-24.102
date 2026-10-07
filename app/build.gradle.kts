@@ -2,7 +2,7 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.compose)
 }
-
+// Коммит 4: обновил build.gradle
 android {
     namespace = "com.example.pr3_shapovalova_pr_24102"
     compileSdk {
